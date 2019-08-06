@@ -1,6 +1,7 @@
 # Identicon
 
 **TODO: Add description**
+- Convertir el módulo en un servicio web
 
 ## Installation
 
